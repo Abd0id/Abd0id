@@ -1,5 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=build.+learn.+ship.+repeat!)](https://git.io/typing-svg)
+# 👋 Hey, I'm Abdo  
+<div align="center">
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48AC5D&center=true&width=435&lines=build.+learn.+ship.+repeat!" alt="Typing SVG" /></a>
+
+💻 Programmer | ✏️ Artist  
+
+</div>
 <!--
 **abdoido/abdoido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
