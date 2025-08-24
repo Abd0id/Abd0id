@@ -10,8 +10,8 @@
 ## 📊 Stats and Activity
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abd0id&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Abd0id&theme=vue-dark&hide_border=true)
+![LeetCode Streak](https://leetcard.jacoblin.cool/Abd0id?theme=nord&font=Noto%20Sans)
 ### 💻 GitHub Profile Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abd0id&show_icons=true&theme=vue-dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd0id&layout=compact&theme=vue-dark&hide_border=true)
