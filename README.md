@@ -1,9 +1,8 @@
-# 👋 Hey, I'm Abdo  
+#  Hey, I'm Abdo  
 <div align="center">
 
 [![Motivation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BB88&center=true&width=435&lines=build.+learn.+ship.+repeat!)](https://git.io/typing-svg)
 
-💻 Programmer | ✏️ Artist  
 
 </div>
 
