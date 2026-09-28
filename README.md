@@ -7,23 +7,11 @@
 
 </div>
 
-## 📊 Stats and Activity
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abd0id/Abd0id/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abd0id/Abd0id/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Abd0id/Abd0id/output/github-snake.svg" />
 </picture>
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Abd0id&theme=vue-dark&hide_border=true)
-![LeetCode Streak](https://leetcard.jacoblin.cool/Abd0id?theme=nord&font=Noto%20Sans)
-### 💻 GitHub Profile Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abd0id&show_icons=true&theme=vue-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abd0id&layout=compact&theme=vue-dark&hide_border=true)
-
-> *Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
-
-### 📈 Activity Graph
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abd0id&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
